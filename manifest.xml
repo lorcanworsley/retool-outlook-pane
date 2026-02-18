@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
   <Id>02a4ec92-fb58-43d8-80c3-cfc11d6c4718</Id>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.0.1</Version>
   <ProviderName>Tudor Environmental</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Retool Order Processor"/>
+  <DisplayName DefaultValue="Retool Addin"/>
   <Description DefaultValue="Task pane add-in to access Retool order processor."/>
   <Hosts>
     <Host Name="Mailbox" />
